@@ -6,6 +6,8 @@ This course will walk you through the [developer documentation](https://develope
 
 ---
 
+Change some words to make actions work.
+
 *Completed the course and want to keep learning?*
 
 Check out the following resources beyond this repository: 
